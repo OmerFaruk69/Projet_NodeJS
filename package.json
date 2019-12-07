@@ -1,0 +1,23 @@
+{
+  "name": "projet_nodejs_devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerFaruk69/Projet_NodeJS.git"
+  },
+  "author": "SANTOS VIEIRA Buno KIZILTOPRAK Omer Faruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerFaruk69/Projet_NodeJS/issues"
+  },
+  "homepage": "https://github.com/OmerFaruk69/Projet_NodeJS#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
